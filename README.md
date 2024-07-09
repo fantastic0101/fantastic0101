@@ -1,9 +1,6 @@
             
-<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
+<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Senior .NET | Full Stack Developer </h1>
 
-<div align="center">
-<img src ="./Github Banner.jpg" />
-</div>
 <br/>
 
 ## 👨🏻‍💻 About Me:
