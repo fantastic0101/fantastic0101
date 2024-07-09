@@ -63,7 +63,7 @@
 
 <h2>Show some ❤️ by starring some of the repositories!</h2>
 <p>
-  <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=SuperDev0101&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+  <a href="https://github.com/SuperDev0101">
+    <img src="https://github-readme-stats.vercel.app/api?username=SuperDev0101&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="SuperDev0101's GitHub Stats" />
   </a>
 </p>
