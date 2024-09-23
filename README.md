@@ -1,5 +1,5 @@
             
-<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Senior .NET | Full Stack Developer </h1>
+<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Senior Full Stack Developer </h1>
 
 <br/>
 
@@ -8,8 +8,6 @@
 <img  src="./working.gif" height="290px" align="right" />
 
 - 🖐Hi there!, I'm Super Developer.
-
-- 🙋‍♂️ All about me is at https://www.upwork.com/freelancers/~017dc74ec495fbae09
 
 - 👨‍💻 I’m currently working as a `Freelance Web Developer`.
 
